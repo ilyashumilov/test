@@ -1,1 +1,1 @@
-Web service that shows message from the url.
+Web service that shows parameters 'name' and 'message' from the url.
